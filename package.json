@@ -1,0 +1,37 @@
+{
+    "name": "extremetj-utils-extension-pack",
+    "displayName": "extremetj-utils-extension-pack",
+    "description": "Extensões utilitárias para aumentar a produtividade do desenvolvedor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "coenraads.bracket-pair-colorizer-2",
+        "psykosoldi3r.vscode-git-flow",
+        "eamodio.gitlens",
+        "quicktype.quicktype",
+        "christian-kohler.path-intellisense",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "esbenp.prettier-vscode",
+        "redhat.vscode-xml",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ],
+    "publisher": "felipebrito-tech",
+    "keywords": [
+        "productivity",
+        "git",
+        "git flow",
+        "xml"
+    ],
+    "repository": {
+        "url": "https://github.com/felipebrito-tech/extremetj-utils-extension-pack"
+    },
+    "homepage": "https://github.com/felipebrito-tech/extremetj-utils-extension-pack",
+    "bugs": {
+        "url": "https://github.com/felipebrito-tech/extremetj-utils-extension-pack/issues"
+    }
+}
