@@ -6,11 +6,20 @@ Extensões para turbinar sua produtividade ao desenvolver.
 
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Converta um JSON da Área de Transferência para interfaces TypeScript.
 
-* [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - specially for Angular, I recommend adding the following config in you users setting for VsCode. Recommended settings:
-- `"prettier.singleQuote": true` (this helps when using auto import extension or the VSCode auto import functionality).
-- `"prettier.tabWidth": 2` (angular lint uses 2 spaces as default indentation). With this setting, you can continue using tabs if it is your preference
-- `"prettier.useTabs": false` (same as above)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Extensão que complementa a funcionalidade de importação de arquivos do VS Code.
 
-* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - VSCode has a very good auto import capability, but sometime you still need to import some files manually, and this extension helps a lot in these cases.
+* [XML](hhttps://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML Language Support by Red Hat.
+
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Pinta com a mesma cor os 'brackets' - (), {} e [] - em par (abertura e fechamento). É especialmente útil quando eles estão aninhados.
+
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+    - AI-assisted development
+    - Completion list ranked by AI
+
+* [GitLens — Git supercharge](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Ganhe insights sobre seu código e versionamento através das lentes dessa extensão.
+
+* [Git Flow](https://marketplace.visualstudio.com/items?itemName=PsykoSoldi3r.vscode-git-flow) - Extensão que facilita o uso do Git Flow no desenvolvimento de sistemas (esta extensão ainda está em evolução).
+
+* [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR) - Pacote de idioma para tradução do VS Code.
 
 **Divirta-se!**
